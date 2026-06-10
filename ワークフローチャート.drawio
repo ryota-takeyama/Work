@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="UpIenVknqWwglKa6xCS7">
+    <mxGraphModel dx="3514" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BEB11PUhd2KYku2XXTPY-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;部署名：&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;業務名：&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="340" x="-1640" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BEB11PUhd2KYku2XXTPY-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="WF-S〇-1" vertex="1">
+          <mxGeometry height="30" width="170" x="-230" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BEB11PUhd2KYku2XXTPY-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="担当者" vertex="1">
+          <mxGeometry height="1010" width="200" x="-1640" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BEB11PUhd2KYku2XXTPY-4" parent="BEB11PUhd2KYku2XXTPY-3" style="rounded=1;whiteSpace=wrap;html=1;" value="開始" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BEB11PUhd2KYku2XXTPY-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Vertical Container" vertex="1">
+          <mxGeometry height="1010" width="200" x="-1440" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BEB11PUhd2KYku2XXTPY-6" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Vertical Container" vertex="1">
+          <mxGeometry height="1010" width="200" x="-1240" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BEB11PUhd2KYku2XXTPY-7" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Vertical Container" vertex="1">
+          <mxGeometry height="1010" width="200" x="-1040" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BEB11PUhd2KYku2XXTPY-8" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Vertical Container" vertex="1">
+          <mxGeometry height="1010" width="200" x="-840" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BEB11PUhd2KYku2XXTPY-9" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Vertical Container" vertex="1">
+          <mxGeometry height="1010" width="200" x="-640" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BEB11PUhd2KYku2XXTPY-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Vertical Container" vertex="1">
+          <mxGeometry height="1010" width="200" x="-440" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BEB11PUhd2KYku2XXTPY-11" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Vertical Container" vertex="1">
+          <mxGeometry height="1010" width="200" x="-240" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
